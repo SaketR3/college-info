@@ -2,7 +2,21 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
+  /* text-align: center; */
+}
+
+.info {
+  font-size: 1.25rem;
+}
+
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.intro {
+  font-weight: bold;
 }
 
 /* .logo {
